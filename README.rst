@@ -16,7 +16,7 @@ This plugin works only for Battlefield 3
 Changelog
 ---------
 
-v1.0
+v1.0 - 17.07.2012
   Initial release
 
 Installation
@@ -41,6 +41,6 @@ Commands
 Support
 -------
 
-see the B3 forums http://forum.bigbrotherbot.net/
+see the B3 forums http://forum.bigbrotherbot.net/plugins-by-freelander/weapon-restriction-plugin-for-bf3/
 
 **Author:** Freelander - freelander@bigbrotherbot.net - http://www.bigbrotherbot.net
